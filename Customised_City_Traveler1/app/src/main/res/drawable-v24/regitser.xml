@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1211dp"
+    android:height="2340dp"
+    android:viewportWidth="1211"
+    android:viewportHeight="2340">
+    <path
+        android:pathData="M0.5,0h1210.5v2340h-1210.5z"
+        android:fillColor="#fffdff"/>
+    <path
+        android:pathData="M0,1803.06S181.5,2061 450.5,2046s402,-413.33 760.5,-433.66V2340H0Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startY="1976.17"
+                android:endY="1976.17"
+                android:startX="0"
+                android:endX="1211"
+                android:type="linear">
+                <item android:offset="0" android:color="#FFE300C1"/>
+                <item android:offset="0.27" android:color="#FFAE22C8"/>
+                <item android:offset="0.89" android:color="#FF2B77DA"/>
+                <item android:offset="1" android:color="#FF1387DD"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M0,504S239,181.08 640.75,180.63 1053,0 1053,0H0Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startY="-147.5"
+                android:startX="19.57"
+                android:endY="251.75"
+                android:endX="526.18"
+                android:type="linear">
+                <item android:offset="0.03" android:color="#FF00D5FB"/>
+                <item android:offset="1" android:color="#FFC5008D"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M287,1976m-132.5,0a132.5,132.5 0,1 1,265 0a132.5,132.5 0,1 1,-265 0"
+        android:strokeWidth="2.88"
+        android:fillColor="#00000000"
+        android:strokeColor="#720072"/>
+    <path
+        android:pathData="M1211,398C991.74,398 814,224 814,9.3q0,-4.67 0.12,-9.3"
+        android:strokeWidth="4.5"
+        android:fillColor="#00000000"
+        android:strokeColor="#ff24e0"/>
+</vector>
